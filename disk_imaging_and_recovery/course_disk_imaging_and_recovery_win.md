@@ -137,7 +137,7 @@ Choose **one** of the following methods.
 1. Install and open **Eraser**
 2. Navigate to `F:\LabFiles`
 3. Right-click `pxl.jpg`
-4. Select **Eraser → Erase**
+4. Select **File Shredder → Secure Delete Files**
 5. Confirm
 
 #### Method B — SDelete (CLI)
