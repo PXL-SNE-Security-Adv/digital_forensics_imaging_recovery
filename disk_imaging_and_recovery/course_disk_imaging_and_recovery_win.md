@@ -75,7 +75,7 @@ After completing this lab, students will be able to:
 3. Follow the wizard:
    * Volume size: default
    * Drive letter: e.g. **F:**
-   * File system: **NTFS**
+   * File system: **FAT32**
    * Volume label: `DFIR_LAB`
    * Enable **Quick Format**
 4. Finish the wizard
