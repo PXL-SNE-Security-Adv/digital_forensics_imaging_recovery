@@ -254,6 +254,7 @@ Answer the following:
 4. Did `mypicture.jpg` retain its original filename? Why or why not?
 5. Why must recovered files be saved to a different drive?
 6. How would SSDs and TRIM affect this experiment?
+7. Is there a difference result when using the NTFS filesystem instead of the FAT32?
 
 ---
 
