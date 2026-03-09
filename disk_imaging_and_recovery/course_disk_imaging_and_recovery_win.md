@@ -50,12 +50,18 @@ After completing this lab, students will be able to:
 
    * or press **Win + R**, type `diskmgmt.msc`, press Enter
 
-### Step 2 — Identify the new disk
+### Step 2 — Add a new disk
 
-* Look for a disk marked as **Unallocated** or **Not Initialized**
-* Identify it by **size** (≈ 1–2 GB)
-* **Verify carefully** to avoid selecting the system disk
-
+* In the menu bar, click Action.
+* Select Create VHD.
+* A dialog window appears.
+* Fill in:
+  * Location – where the VHD file will be stored
+  * Example: c:\test\labdisk.vhdx
+  * Disk Size : 1 GB
+  * Virtual hard disk type
+    * Fixed Size (Recommended)   
+  
 ### Step 3 — Initialize the disk (if prompted)
 
 1. Right-click the disk → **Initialize Disk**
