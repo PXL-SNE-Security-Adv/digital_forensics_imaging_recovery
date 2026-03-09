@@ -102,9 +102,10 @@ After completing this lab, students will be able to:
 ### Step 2 — Copy files
 
 Copy the following files into `F:\LabFiles`:
-
 * `mypicture.jpg`
 * `pxl.jpg`
+
+(These files can be found under digital_forensics_imaging_recovery\disk_imaging_and_recovery\example_files)
 
 ### Step 3 — Verify
 
