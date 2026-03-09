@@ -73,7 +73,6 @@ After completing this lab, students will be able to:
 1. Right-click the **Unallocated** space
 2. Select **New Simple Volume**
 3. Follow the wizard:
-
    * Volume size: default
    * Drive letter: e.g. **F:**
    * File system: **NTFS**
@@ -165,15 +164,16 @@ Choose **one** of the following methods.
 ### Step 1 — Launch Recuva
 
 1. Start **Recuva**
-2. Use **Wizard mode**
+2. Select Disk - DFIR_LAB (F:)
+3. Press the Scan button
+4. Select the files you want to recover
+5. Press the Recover button
+6. A dialog window appears.
+   * Select the a location where you want save the recovered files.
 
-### Step 2 — Configure scan
 
-* File type: **Pictures** (or All Files)
-* Location: **Specific location** → `F:\LabFiles`
-* Enable **Deep Scan**
-
-Start the scan.
+>What files are recovered?
+>What about the filename?
 
 ---
 
